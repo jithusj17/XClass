@@ -1,5 +1,6 @@
 import React from 'react'
-import Counter from './assets/counter'
+import Counter from './assets/Components/Counter'
+
 
 
 const App = () => {
