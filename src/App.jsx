@@ -1,9 +1,10 @@
 import React from 'react'
 import Counter from './assets/counter'
 
+
 const App = () => {
   return (
-    <div>
+    <div className=''>
       <Counter />
     </div>
   )
